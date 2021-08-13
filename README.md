@@ -1,2 +1,2 @@
 # Twitter-Project
-SAS, Python codes; data
+SAS codes
